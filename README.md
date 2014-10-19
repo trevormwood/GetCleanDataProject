@@ -17,3 +17,8 @@ How The Script Works
 - For each subject/activity pair, get all of the relevant rows and takes a mean over the columns.
 - Gives the subject/activity pair columns readable headings.
 - Writes to a matrix.
+
+Codebook
+========
+
+The attached file codebook.txt gives an update to the existing codebooks to explain the data format
